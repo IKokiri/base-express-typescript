@@ -1,3 +1,17 @@
-# base-express-typescript
-# base-express-typescript
-# base-express-typescript
+# Base Project
+
+- Cors
+
+- Eslint
+
+- Express
+
+- Husky
+
+- Node
+
+- Prettier
+
+- TS-Node
+
+- Typescript

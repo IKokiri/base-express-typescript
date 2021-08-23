@@ -2,6 +2,8 @@
 
 - Cors
 
+- Conventional Commits
+
 - Eslint
 
 - Express
